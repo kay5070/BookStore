@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NygqSO76kihZv8e9q4Eo2kNh4H27AHlomktyyCRzszs=",
+  "Hash": "bP9R76PyhgdrKZIlW0bw/eUTgLR+Zdau2sWVlQS5HP8=",
   "Source": "CuriousMindsBookstore",
   "BasePath": "_content/CuriousMindsBookstore",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CuriousMindsBookstore.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "CuriousMindsBookstore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore\\wwwroot\\",
+      "BasePath": "_content/CuriousMindsBookstore",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore\\wwwroot\\css\\site.css",

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\CuriousMindsBookstore.bundle.scp.css"
     },
     {
+      "Id": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
       "Id": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
