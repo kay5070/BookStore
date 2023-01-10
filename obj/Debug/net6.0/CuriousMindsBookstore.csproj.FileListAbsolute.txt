@@ -268,3 +268,4 @@ D:\COURSES\WEB DEV\ITI\Projects\bhrugan\Curious Minds Bookstore\CuriousMindsBook
 D:\COURSES\WEB DEV\ITI\Projects\bhrugan\Curious Minds Bookstore\CuriousMindsBookstore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\COURSES\WEB DEV\ITI\Projects\bhrugan\Curious Minds Bookstore\CuriousMindsBookstore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\COURSES\WEB DEV\ITI\Projects\bhrugan\Curious Minds Bookstore\CuriousMindsBookstore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\COURSES\WEB DEV\ITI\Projects\bhrugan\Curious Minds Bookstore\CuriousMindsBookstore\obj\Debug\net6.0\scopedcss\Views\Shared\_Notification.cshtml.rz.scp.css
