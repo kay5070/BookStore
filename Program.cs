@@ -1,4 +1,4 @@
-using CuriousMindsBookstore.Data;
+using CuriousMindsBookstore.DataAccess;
 using Microsoft.EntityFrameworkCore;
 
 namespace CuriousMindsBookstore

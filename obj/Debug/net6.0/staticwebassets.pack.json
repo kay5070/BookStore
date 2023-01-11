@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CuriousMindsBookstore.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CuriousMindsBookstore.bundle.scp.css"
+      "Id": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CuriousMindsBookstoreWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CuriousMindsBookstoreWeb.bundle.scp.css"
     },
     {
       "Id": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore\\wwwroot\\css\\bootswatchTheme.css",
@@ -249,20 +249,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CuriousMindsBookstore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CuriousMindsBookstoreWeb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CuriousMindsBookstore.props",
-      "PackagePath": "build\\CuriousMindsBookstore.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CuriousMindsBookstoreWeb.props",
+      "PackagePath": "build\\CuriousMindsBookstoreWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CuriousMindsBookstore.props",
-      "PackagePath": "buildMultiTargeting\\CuriousMindsBookstore.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CuriousMindsBookstoreWeb.props",
+      "PackagePath": "buildMultiTargeting\\CuriousMindsBookstoreWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CuriousMindsBookstore.props",
-      "PackagePath": "buildTransitive\\CuriousMindsBookstore.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CuriousMindsBookstoreWeb.props",
+      "PackagePath": "buildTransitive\\CuriousMindsBookstoreWeb.props"
     }
   ],
   "ElementsToRemove": []

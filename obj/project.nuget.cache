@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bphxgGNqMcVfd2GaFyBQL7knBj+fJzrsav2Y/fjgWtPbYgHbn4wRTvh7J+KNtR1zKCnRW1LhH5v1jcSfVUmuRA==",
+  "dgSpecHash": "4s6P2Ihh8ECbIiwsnYe18n3GHLKoPFXpHgEhDDo6Kd1h+Ff6HxRI/U0GMqv2Tl1M7mQPtHj1Bba9mtYu4Fu38Q==",
   "success": true,
   "projectFilePath": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore\\CuriousMindsBookstore.csproj",
   "expectedPackageFiles": [
@@ -175,11 +175,7 @@
     "C:\\Users\\spc\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\spc\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\spc\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\spc\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\spc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
-    "C:\\Users\\spc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\spc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\spc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+    "C:\\Users\\spc\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

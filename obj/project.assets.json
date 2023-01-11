@@ -3529,6 +3529,32 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CuriousMindsBookstore.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CuriousMindsBookstore.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.12",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.12",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.12"
+        },
+        "compile": {
+          "bin/placeholder/CuriousMindsBookstore.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CuriousMindsBookstore.DataAccess.dll": {}
+        }
+      },
+      "CuriousMindsBookstore.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CuriousMindsBookstore.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CuriousMindsBookstore.Models.dll": {}
+        }
       }
     }
   },
@@ -10007,10 +10033,21 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "CuriousMindsBookstore.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../CuriousMindsBookstore.DataAccess/CuriousMindsBookstore.DataAccess.csproj",
+      "msbuildProject": "../CuriousMindsBookstore.DataAccess/CuriousMindsBookstore.DataAccess.csproj"
+    },
+    "CuriousMindsBookstore.Models/1.0.0": {
+      "type": "project",
+      "path": "../CuriousMindsBookstore.Models/CuriousMindsBookstore.Models.csproj",
+      "msbuildProject": "../CuriousMindsBookstore.Models/CuriousMindsBookstore.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CuriousMindsBookstore.DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.12",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.12",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.12",
@@ -10044,7 +10081,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore.DataAccess\\CuriousMindsBookstore.DataAccess.csproj": {
+              "projectPath": "D:\\COURSES\\WEB DEV\\ITI\\Projects\\bhrugan\\Curious Minds Bookstore\\CuriousMindsBookstore.DataAccess\\CuriousMindsBookstore.DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -10093,24 +10134,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.11, 6.0.11]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.11, 6.0.11]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.11, 6.0.11]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.11, 6.0.11]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -10119,7 +10142,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
